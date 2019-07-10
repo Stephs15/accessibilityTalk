@@ -16,7 +16,13 @@
   "dependencies": {
     "@babel/polyfill": "^7.0.0",
     "@babel/runtime": "^7.1.2",
+    "cryptiles": "^4.1.2",
+    "fstream": "^1.0.12",
     "gh-pages": "^2.0.1",
+    "handlebars": "^4.1.0",
+    "js-yaml": "^3.13.1",
+    "marked": "^0.6.1",
+    "merge": "^1.2.1",
     "normalize.css": "8.0.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
